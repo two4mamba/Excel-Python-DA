@@ -8,3 +8,6 @@
 
 ## 5-数据预处理
 ![5-数据预处理](https://i.loli.net/2020/12/15/xGMcnarpkbOLygX.png)
+
+## 6-数据选择
+![6-数据选择](https://i.loli.net/2020/12/15/XNrj9Rl13ifMJhz.png)
