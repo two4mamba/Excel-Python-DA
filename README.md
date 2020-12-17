@@ -11,3 +11,7 @@
 
 ## 6-数据选择
 ![6-数据选择](https://i.loli.net/2020/12/15/XNrj9Rl13ifMJhz.png)
+
+## 7-数值操作
+
+![7-数值操作](https://i.loli.net/2020/12/17/kjvG1RzpL5eISBT.png)
