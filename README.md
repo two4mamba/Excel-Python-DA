@@ -1,6 +1,13 @@
 # Excel-Python-DA
 
+## 目录使用说明
+
+本项目`data`文件夹为本项目使用的数据源，`pic`文件夹为思维导图目录
+
+
+
 ## 3-Pandas数据结构
+
 ![3-Pandas数据结构](https://i.loli.net/2020/12/15/yoBek1ngjTdJX9R.png)
 
 ## 4-获取外部数据
@@ -15,3 +22,11 @@
 ## 7-数值操作
 
 ![7-数值操作](https://i.loli.net/2020/12/17/kjvG1RzpL5eISBT.png)
+
+## 8-数据运算
+
+![8-数据运算](https://i.loli.net/2020/12/18/tOcjfva8dZqp54Q.png)
+
+## 9-时间和序列
+
+![9-时间和序列](https://i.loli.net/2020/12/18/6swNkgX5HDlKB7d.png)
