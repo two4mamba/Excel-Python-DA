@@ -30,3 +30,15 @@
 ## 9-时间和序列
 
 ![9-时间和序列](https://i.loli.net/2020/12/18/6swNkgX5HDlKB7d.png)
+
+## 10-数据分组（数据透视表）
+
+![10-数据分组（数据透视表）](https://i.loli.net/2021/01/07/LayGClVmtp9bz7Q.png)
+
+## 11-多表拼接
+
+![11-多表拼接](https://i.loli.net/2021/01/07/DQYepS8K2Lh94aJ.png)
+
+## 12-结果导出
+
+![12-结果导出](https://i.loli.net/2021/01/07/iykU3jNHDzg5bVq.png)
