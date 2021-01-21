@@ -42,3 +42,11 @@
 ## 12-结果导出
 
 ![12-结果导出](https://i.loli.net/2021/01/07/iykU3jNHDzg5bVq.png)
+
+## 13-数据可视化
+
+![13-数据可视化](https://i.loli.net/2021/01/21/BmYPjaWGEHTZfgA.png)
+
+## 15-NumPy数组
+
+![15-NumPy数组](https://i.loli.net/2021/01/21/mUBDJd45M3KqOLl.png)
