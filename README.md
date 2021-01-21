@@ -8,13 +8,13 @@
 
 ## 3-Pandas数据结构
 
-![3-Pandas数据结构](https://i.loli.net/2020/12/15/yoBek1ngjTdJX9R.png)
+![3-Pandas数据结构](https://i.loli.net/2021/01/21/8b24GWUeED3Nnfv.png)
 
 ## 4-获取外部数据
-![4-获取外部数据](https://i.loli.net/2020/12/15/hUYE7VT3dyOtprc.png)
+![4-获取外部数据](https://i.loli.net/2021/01/21/wP4aUKlNIsH1DiT.png)
 
 ## 5-数据预处理
-![5-数据预处理](https://i.loli.net/2020/12/15/xGMcnarpkbOLygX.png)
+![5-数据预处理](https://i.loli.net/2021/01/21/aurJHYjg1MBChoD.png)
 
 ## 6-数据选择
 ![6-数据选择](https://i.loli.net/2020/12/15/XNrj9Rl13ifMJhz.png)
