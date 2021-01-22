@@ -17,31 +17,31 @@
 ![5-数据预处理](https://i.loli.net/2021/01/21/aurJHYjg1MBChoD.png)
 
 ## 6-数据选择
-![6-数据选择](https://i.loli.net/2020/12/15/XNrj9Rl13ifMJhz.png)
+![6-数据选择](https://i.loli.net/2021/01/22/bcnVJXjo2r6Qf7K.png)
 
 ## 7-数值操作
 
-![7-数值操作](https://i.loli.net/2020/12/17/kjvG1RzpL5eISBT.png)
+![7-数值操作](https://i.loli.net/2021/01/22/zTqyoc15hQ6XdKu.png)
 
 ## 8-数据运算
 
-![8-数据运算](https://i.loli.net/2020/12/18/tOcjfva8dZqp54Q.png)
+![8-数据运算](https://i.loli.net/2021/01/22/8jlG476NKHVYirv.png)
 
 ## 9-时间和序列
 
-![9-时间和序列](https://i.loli.net/2020/12/18/6swNkgX5HDlKB7d.png)
+![9-时间和序列](https://i.loli.net/2021/01/22/BkCzljVKXM3ac8I.png)
 
 ## 10-数据分组（数据透视表）
 
-![10-数据分组（数据透视表）](https://i.loli.net/2021/01/07/LayGClVmtp9bz7Q.png)
+![10-数据分组（数据透视表）](https://i.loli.net/2021/01/22/TKlRyoIdjvtfwB2.png)
 
 ## 11-多表拼接
 
-![11-多表拼接](https://i.loli.net/2021/01/07/DQYepS8K2Lh94aJ.png)
+![11-多表拼接](https://i.loli.net/2021/01/22/lZOob4aEFhVTYke.png)
 
 ## 12-结果导出
 
-![12-结果导出](https://i.loli.net/2021/01/07/iykU3jNHDzg5bVq.png)
+![12-结果导出](https://i.loli.net/2021/01/22/EmdTBeAPytLszah.png)
 
 ## 13-数据可视化
 
