@@ -45,7 +45,7 @@
 
 ## 13-数据可视化
 
-![13-数据可视化](https://i.loli.net/2021/01/21/BmYPjaWGEHTZfgA.png)
+![13-数据可视化](https://i.loli.net/2021/01/26/IRg4Cqnap2PvxeX.png)
 
 ## 15-NumPy数组
 
